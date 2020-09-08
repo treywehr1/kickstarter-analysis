@@ -10,8 +10,7 @@
 
 ## Louise's Musical in Great Britain
   In the case of Louise's British musical ambitions; a campaign goal of 4,000.00 GBP would be higher than the most commonly succesful musical campaigns in Great Britain. The box & whisker plot attached illustrates UK Musical goals vs UK Musical pledges - those goals slightly under 2,000.00 GBP have a significantly greater chance of succesful pledge amounts.
-  
-![Imgur](https://imgur.com/4Lgigvs)  
+![Imgur](https://imgur.com/4Lgigvs.png)  
   
   ## Conclusion
   Louise would be advised to lower both of her goals by at least an amount over $2,000.00 USD and 2,000.00 GBP. It would also be advised that Louis launch her US campaign in the early summer time of May or June.
