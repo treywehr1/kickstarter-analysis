@@ -15,7 +15,8 @@
 ### Analysis of Outcomes Based on Launch Date
   The attached line graph suggests a campaign launch for her play would be most effective in the early summer months of May or June. Another conclusion reached by the data/graph is that although there are generally less campaigns launched in the fall than in the summer, campaigns are significantly less succesful during this time.
 
-[Imgur](https://imgur.com/ifQv6TY)
+
+![Imgur](https://imgur.com/ifQv6TY)
 
 
 ### Analysis of Outcomes Based on Goals
@@ -24,8 +25,9 @@
    - In fact, of the 5 kickstarters for plays she's been specifically inspired by (Be Prepared, Checkpoint 22, etc.), the average goal sits at $2,100.00 USD - vastly under her expected $12,000.00 USD goal.
   
   The below graph also illustrates that outcomes based on goals suggest that a lower goal usually equates to a higher percentage of successful campaigns except for a slight increase in probability for plays 
-
-[Imgur](https://imgur.com/JZZKOCy)
+  
+  
+![Imgur](https://imgur.com/JZZKOCy)
 
 
 ### Challenges and Difficulties Encountered
