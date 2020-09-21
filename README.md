@@ -1,7 +1,7 @@
 # Kickstarting with Excel
  An analysis of Kickstarter campaign data.
 ## Overview of Project
-    Louise has ambitions to form a kickstarter to fund a play in the United States. Historical kickstarter data was collected and analyzed to determine potential campaign optimizations, while also determining what strategies could possibly limit campaign success. Criteria such as launch date of campaign, amount requsted (or goal) of campaign, descriptive statistics using succesful and failed US play data, and more was analyzed to supply louise with an inventory of information to formulate beneficial decisions for her own future campaign. 
+ Louise has ambitions to form a kickstarter to fund a play in the United States. Historical kickstarter data was collected and analyzed to determine potential campaign optimizations, while also determining what strategies could possibly limit campaign success. Criteria such as launch date of campaign, amount requsted (or goal) of campaign, descriptive statistics using succesful and failed US play data, and more was analyzed to supply louise with an inventory of information to formulate beneficial decisions for her own future campaign. 
 ### Purpose
   The purpose of this anlaysis is to generate quantifiable advantages and disadvantages of certain fundraising decisions when running a Kickstarter campaign. Specifically, this analysis was performed with Louise's US kickstarter campaign to fund a play in mind.
 ## General Analysis 
@@ -15,7 +15,7 @@
 ### Analysis of Outcomes Based on Launch Date
   The attached line graph suggests a campaign launch for her play would be most effective in the early summer months of May or June. Another conclusion reached by the data/graph is that although there are generally less campaigns launched in the fall than in the summer, campaigns are significantly less succesful during this time.
 
-![Imgur](https://imgur.com/ifQv6TY)
+[Imgur](https://imgur.com/ifQv6TY)
 
 
 ### Analysis of Outcomes Based on Goals
@@ -25,7 +25,7 @@
   
   The below graph also illustrates that outcomes based on goals suggest that a lower goal usually equates to a higher percentage of successful campaigns except for a slight increase in probability for plays 
 
-![Imgur](https://imgur.com/JZZKOCy)
+[Imgur](https://imgur.com/JZZKOCy)
 
 
 ### Challenges and Difficulties Encountered
