@@ -7,11 +7,12 @@
 
 ## General Analysis 
   Kickstarter data from 2009 to 2017 containing information such as 
-   - Goal amounts 
-   - Pledged amounts 
-   - Timestamps of campaign initiation 
+   - Goal amounts
+   - Pledged amounts
+   - Timestamps of campaign initiation
    - Whether the campaign was succesful, canceled, or failed
-   were analyzed by organizing corresponding charts snd statstical analysis. This was accomplished by utilizing filters, Vlookups, and pivot charts in order to effectively format said data for various analytical endeavours.
+
+Were analyzed by organizing corresponding charts snd statstical analysis. This was accomplished by utilizing filters, Vlookups, and pivot charts in order to effectively format said data for various analytical endeavours.
    
 ### Analysis of Outcomes Based on Launch Date
  It seems that there is a time of year that yields a higher probability for AND higher amount of successful theater-based Kickstarter campains. The attached line graph suggests a campaign launch for her play would be most effective in the early summer months of May or June. Another conclusion reached by the data/graph is that although there are generally less campaigns launched in the fall than in the summer, campaigns are significantly less succesful during this time.
