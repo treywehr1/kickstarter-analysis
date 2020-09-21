@@ -16,7 +16,7 @@
   The attached line graph suggests a campaign launch for her play would be most effective in the early summer months of May or June. Another conclusion reached by the data/graph is that although there are generally less campaigns launched in the fall than in the summer, campaigns are significantly less succesful during this time.
 
 
-![Imgur](https://imgur.com/ifQv6TY)
+![Imgur](https://imgur.com/ifQv6TY.png)
 
 
 ### Analysis of Outcomes Based on Goals
@@ -26,8 +26,7 @@
   
   The below graph also illustrates that outcomes based on goals suggest that a lower goal usually equates to a higher percentage of successful campaigns except for a slight increase in probability for plays 
   
-  
-![Imgur](https://imgur.com/JZZKOCy)
+![Imgur](https://imgur.com/JZZKOCy.png)
 
 
 ### Challenges and Difficulties Encountered
